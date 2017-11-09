@@ -80,10 +80,10 @@ body {
     position: relative;
     padding: 0px 7px;
     white-space: nowrap;
+    font-size: $base-font-size;
 
     .link-text {
       visibility: hidden;
-      font-size: $base-font-size;
       position: absolute;
       top: 70px;
       left: 50%;
