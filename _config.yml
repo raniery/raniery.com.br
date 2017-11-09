@@ -8,7 +8,7 @@ baseurl: ""
 hostname: raniery.com.br
 url: http://raniery.com.br
 permalink: /:title/
-phone: +5561984126694
+phone: "\x2B5561984126694"
 phone_mask: +55 (61) 9 8412 6694
 
 twitter_username: ranieryribeiro
