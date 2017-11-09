@@ -71,7 +71,7 @@ body {
 }
 
 .site-links {
-  font-size: 22px;
+  font-size: 53px;
   padding: 2px 0px 0px 6px;
 
   a {
@@ -85,7 +85,7 @@ body {
       visibility: hidden;
       font-size: $base-font-size;
       position: absolute;
-      top: 30px;
+      top: 70px;
       left: 50%;
       @include transform(translate(-50%, 0%));
     }
